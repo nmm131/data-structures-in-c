@@ -1,0 +1,7 @@
+Tom Jones U 3.6
+Mary Kerry D 3.7
+Paula Smith U 3.6
+Henry Little M 3.3
+Jane Doe M 2.7
+Bill Glass D 2.9
+Tom K ? 2.0

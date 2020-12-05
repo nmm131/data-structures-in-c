@@ -1,0 +1,11 @@
+6
+
+Hartford Middletown Hamden
+Waterbury Bristol Manchester
+
+Hartford 3 Middletown 17 60 0 Bristol 19 55 1 Manchester 10 45 0
+Middletown 3 Hartford 17 60 0 Hamden 21 55 1 Waterbury 24 65 0
+Hamden 1 Middletown 21 55 1
+Waterbury 2 Bristol 12 65 1 Middletown 24 65 0
+Bristol 2 Waterbury 12 65 1 Hartford 19 55 1
+Manchester 1 Hartford 10 45 0
