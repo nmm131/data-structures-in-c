@@ -3,7 +3,7 @@
 Data Structures in C is a set of assignments covering fundamental concepts of data structures such as stacks, queues, linear and linked lists, trees, graphs, hashing, etc., using the C programming language. Algorithms for manipulating these structures, such as sorting and searching techniques are also covered.
 
 Each exercise includes (brief descriptions follow):
-```
+
 1. typedef statements, input and output, multiple files, swapping function information using pointers
 2. singly linked lists with multiple types of data, allocation count, doubly linked lists with node traversal, in addition to other functions such as initializing, deleting, placing at front/end, swapping and removing
 3. stacks, allocation count, checking if stack is empty, push, pop, peek, deleting the stack, reading from a file using an array, in addition to other functions such as initializing, deleting, placing at front/end, swapping and removing
@@ -12,7 +12,7 @@ Each exercise includes (brief descriptions follow):
 6. sorting algorithms and their memory and performance characteristics and Big O Notation, insertion sort, selection sort, shell sort, merge sort, heap sort, quick sort, filling an array with data from a data file, using different types of data other than integers (char arrays, characters, floats, etc.), printing array data, determining order of elements low to high and high to low, in addition to other functions such as runTest to provide the routine for testing the sort
 7. graphs, topological sorting, reachable and unreachable vertices, edges, simple paths, adjacency lists, including other functions for topological sorting
 8. complex garmins, bellman-fords, finding minimum distance as well as best time and avoidance routes and cost, reachable and unreachable vertices, edges, simple paths
-```
+
 
 ## Installation
 
